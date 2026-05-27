@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey+there%2C+I'm+Ismael+Vasco+%F0%9F%91%8B;Backend+Developer+%7C+C%23+%C2%B7+.NET+%7C+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey+there%2C+I'm+Ismael+Vasco;Backend+Developer)](https://git.io/typing-svg)
 
 <!-- Subtitle animated -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=64748B&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Software+Architecture+%26+Web+Infrastructure+%F0%9F%8F%97%EF%B8%8F;Docker+%C2%B7+Kubernetes+%C2%B7+ASP.NET+Core+%C2%B7+CI%2FCD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=64748B&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Software+Architecture+%26+Web+Infrastructure;Docker+%C2%B7+Kubernetes+%C2%B7+ASP.NET+Core+%C2%B7+CI%2FCD)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 🧠 About me
+## About me
 
 ```csharp
 var ismael = new Developer
@@ -29,44 +29,44 @@ var ismael = new Developer
     Training    = "RIWI — Backend Web Developer (2025 → Present)",
     Languages   = new[] { "Spanish (native)", "English C2/C1 · EF SET 73/100" },
     OpenTo      = "Remote & Relocation 🌍",
-    CurrentlyLearning = new[] { "Clean Architecture", "CQRS", "Kubernetes", "CI/CD" },
-    FunFact     = "483 contributions in the last year and still counting 🔥"
+    CurrentlyLearning = new[] { "Clean Architecture", "Kubernetes", "CI/CD" },
+    FunFact     = "483 contributions in the last year and still counting"
 };
 ```
 
 ---
 
-## 🚀 Primary Stack
+## Primary Stack
 
 <div align="center">
 
-### ⭐ C# / .NET Ecosystem — Main Focus
+### C# / .NET Ecosystem — Main Focus
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### 🏗️ Architecture & Infrastructure
+### Architecture & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### 🔧 C Environment & Python
+### C Environment & Python
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 
-### 🗄️ Databases
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### 🔩 Complementary
+### Complementary
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -102,60 +102,32 @@ var ismael = new Developer
 
 ---
 
-## 🏆 Achievements & Trophies
+## Featured Projects
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Ismael-Vasco&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![Portfolio](https://ismael-vasco.github.io/Portfolio_C6/)
 
 </div>
 
 ---
 
-## 📌 Featured Projects
-
-<div align="center">
-
-[![Blood Donor System](https://github-readme-stats.vercel.app/api/pin/?username=Ismael-Vasco&repo=SQLite_Colab&theme=tokyonight&border_radius=10&title_color=2563EB)](https://github.com/Ismael-Vasco/SQLite_Colab)
-[![Logistic Regression](https://github-readme-stats.vercel.app/api/pin/?username=Ismael-Vasco&repo=Regressions&theme=tokyonight&border_radius=10&title_color=2563EB)](https://github.com/Ismael-Vasco/Regressions)
-
-[![Text Encryptor](https://github-readme-stats.vercel.app/api/pin/?username=Ismael-Vasco&repo=Encriptador-texto&theme=tokyonight&border_radius=10&title_color=2563EB)](https://github.com/Ismael-Vasco/Encriptador-texto)
-[![Secret Game](https://github-readme-stats.vercel.app/api/pin/?username=Ismael-Vasco&repo=secret-game&theme=tokyonight&border_radius=10&title_color=2563EB)](https://github.com/Ismael-Vasco/secret-game)
-
-</div>
-
----
-
-## 🎓 Training & Certifications
+## Training & Certifications
 
 | Institution | Program | Year | Status |
 |---|---|---|---|
-| 🏫 **RIWI** | Backend Web Developer · C# · .NET · ASP.NET Core | 2025 → | 🟢 Active |
-| 🎓 **Universidad de Antioquia** | Business Administration · Tech & Software Focus | 2019–2025 | ✅ Graduated |
-| 🏢 **Meta** | Web Development · Django · DRF · REST APIs | 2025 | ✅ Certified |
-| ☕ **Oracle Next Education (ONE)** | Java · Spring Boot · JPA · Hibernate · Spring Security | 2024 | ✅ Certified |
-| 📚 **Platzi** | Algorithms & Data Structures · C · C++ | 2025 | ✅ Certified |
-| 🐍 **UNAL + Udemy** | Python for Data Analysis · ETL · Data Science | 2022–2024 | ✅ Certified |
-| 🤖 **IBM + MinTIC** | Deep Learning & Machine Learning | 2024 | ✅ Certified |
-| 🚀 **Talento Tech · MinTIC** | Data Science & Artificial Intelligence | 2024 | ✅ Certified |
+| **RIWI** | Backend Web Developer · C# · .NET · ASP.NET Core | 2025 → | 🟢 Active |
+| **Universidad de Antioquia** | Business Administration · Tech & Software Focus | 2019–2025 | ✅ Graduated |
+| **Meta** | Web Development · Django · DRF · REST APIs | 2025 | ✅ Certified |
+| **Oracle Next Education (ONE)** | Java · Spring Boot · JPA · Hibernate · Spring Security | 2024 | ✅ Certified |
+| **Platzi** | Algorithms & Data Structures · C · C++ | 2025 | ✅ Certified |
+| **UNAL + Udemy** | Python for Data Analysis · ETL · Data Science | 2022–2024 | ✅ Certified |
+| **IBM + MinTIC** | Deep Learning & Machine Learning | 2024 | ✅ Certified |
+| **Talento Tech · MinTIC** | Data Science & Artificial Intelligence | 2024 | ✅ Certified |
 
 ---
 
-## 💼 Experience
-
-```
-🏛️  Government of Antioquia          Jan 2024 – Dec 2024
-    Excellence Intern — Data Analyst & Automation
-    ↳ Python automation · Power BI dashboards · ETL · Database design
-
-🎓  ASESPUA – Universidad de Antioquia    Aug 2021 – Jun 2023
-    Administrative & Data Assistant
-    ↳ Google Data Studio · Tableau · Excel · Database management
-```
-
----
-
-## 🌍 Languages
+## Languages
 
 <div align="center">
 
@@ -170,7 +142,7 @@ var ismael = new Developer
 
 ---
 
-## 📫 Let's connect
+## Let's connect
 
 <div align="center">
 
