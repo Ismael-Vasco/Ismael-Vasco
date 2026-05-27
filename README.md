@@ -83,13 +83,6 @@ var ismael = new Developer
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ismael-Vasco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=false&title_color=2563EB&icon_color=2563EB"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismael-Vasco&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=false&title_color=2563EB"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ismael-Vasco&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&ring=2563EB&fire=2563EB&currStreakLabel=2563EB)](https://git.io/streak-stats)
 
 </div>
@@ -106,7 +99,7 @@ var ismael = new Developer
 
 <div align="center">
 
-[![Portfolio](https://ismael-vasco.github.io/Portfolio_C6/)
+[![Portfolio Preview](https://img.shields.io/badge/_Visit_Portfolio-ismael--vasco.github.io-2563EB?style=for-the-badge&logoColor=white)](https://ismael-vasco.github.io/Portfolio_C6/)
 
 </div>
 
@@ -157,12 +150,12 @@ var ismael = new Developer
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=64748B&center=true&vCenter=true&width=500&lines=Building+scalable+backend+systems+%F0%9F%94%A7;Open+to+remote+%26+relocation+%F0%9F%8C%8D;Let's+build+something+great+together+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=64748B&center=true&vCenter=true&width=500&lines=Building+scalable+backend+systems+%F0%9F%94%A7;Open+to+remote+%26+relocation+%F0%9F%8C%8D;Let's+build+something+great+together)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
 <div align="center">
-<sub>Made with ❤️ from Medellín, Colombia · Updated 2025</sub>
+<sub>Made with ❤️ from Medellín, Colombia · 2026</sub>
 </div>
