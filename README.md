@@ -1,4 +1,12 @@
 <div align="center">
+    
+<!-- Snake animation -->
+![Snake animation](https://raw.githubusercontent.com/Ismael-Vasco/Ismael-Vasco/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+
+<div align="center">
 
 <!-- Animated typing header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey+there%2C+I'm+Ismael+Vasco;Backend+Developer)](https://git.io/typing-svg)
